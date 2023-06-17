@@ -53,5 +53,6 @@ I consider myself passionate about my profession eager to always grow. Experienc
 
 <p align="left"> <a href="https://www.github.com/danielthames360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/danielthames" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-cespedes-tames-b3425113a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CespedesTames" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Skill Level
-<a href="https://github.com/danielthames360" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielthames360&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Tech Used
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielthames360&layout=compact&show_icons=true&theme=dark)
